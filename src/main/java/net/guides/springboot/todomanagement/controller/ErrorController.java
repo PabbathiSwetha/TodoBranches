@@ -21,6 +21,9 @@ public class ErrorController {
 		return mv;
 	}
 	public end90{
+}
+	public start1(){
+
 	}
 
 }
