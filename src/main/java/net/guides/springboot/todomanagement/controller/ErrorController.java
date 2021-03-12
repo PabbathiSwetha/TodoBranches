@@ -8,6 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller("error")
 public class ErrorController {
+	//301 code
 	//300 code
 	@ExceptionHandler(Exception.class)
 	public ModelAndView handleException
