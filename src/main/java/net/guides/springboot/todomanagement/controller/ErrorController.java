@@ -20,5 +20,7 @@ public class ErrorController {
 		mv.setViewName("error");
 		return mv;
 	}
+	public end90{
+	}
 
 }
